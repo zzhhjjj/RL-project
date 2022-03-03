@@ -17,3 +17,6 @@ https://stackoverflow.com/questions/64161280/rl-problem-on-colab-for-gym-envs-bo
 
  
 
+# Usage
+
+To run our program, you will only need to open ''Lunarlander_with_blind_area.ipynb". 
