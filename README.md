@@ -7,7 +7,7 @@ In order to solve the partially observed [LunarLander-v2](https://gym.openai.com
  	3. DQN
  	4. DQN bonus
 
- And we have tested their performance in two different situation, blind are width = 0.2 / 0.4.
+ And we have tested their performance in two different situation, blind area width = 0.2 / 0.4.
 
 # Install
 
